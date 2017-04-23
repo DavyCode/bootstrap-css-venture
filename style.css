@@ -1,5 +1,18 @@
-body{
+body {
 
-    background: #232323;
-    
+     background-color: #00CCCC;
+  padding-top: 70px;
+}
+
+.jumbotron{
+    color: #2C3E50;
+    background: #ecf0f1;
+
+}
+.navbar{
+	color: #2C3E50;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+	color: #ffffff;
 }
